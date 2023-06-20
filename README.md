@@ -1,3 +1,3 @@
 # exploratory-data-analysis
 
-This is an example of exploratory data analysis
+This is an example/practice of exploratory data analysis
